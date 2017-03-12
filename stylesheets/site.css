@@ -16,7 +16,7 @@ hr {
 	border: none;
 	border-top: 1px solid #D6D6D8;
 	background: transparent;
-	margin: 80px 0;
+	margin: 40px 0;
 }
 
 .container {
@@ -84,6 +84,11 @@ ul.navigation li {
 
 .project div.project-meta {
 	padding: 10px 15px;
+}
+
+.project div.project-code {
+	padding: 5px 15px;
+	padding-bottom: 10px;
 }
 
 .project img {
